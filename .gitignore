@@ -1,0 +1,6 @@
+.idea
+gen### Gradle template
+.gradle
+/build/
+gradle-app.settinge
+*.class

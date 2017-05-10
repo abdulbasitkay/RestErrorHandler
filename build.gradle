@@ -1,0 +1,14 @@
+group = "com.abulkay.errorhandling"
+version = "2.0-alpha1"
+description = "FlexiSAF CBT Data Service"
+
+apply plugin: 'java'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'javax.ws.rs:javax.ws.rs-api:2.0.1'
+    
+}
